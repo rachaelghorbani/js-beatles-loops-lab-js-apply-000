@@ -1,4 +1,11 @@
+function theBeatlesPlay(arrayOfMusicians, arrayOfInstruments){
+  var array = [];
+  if(var i = 0, i < arrayOfMusicians.length; i++){
+    array.push()
+  }
+}
 // * Create a variable with an empty array.
+
 // * Use a `for loop`, which iterates over the array of musicians. Be careful
 //   about what value you set your `counter` variable to store. (Hint: Think
 //   about what the first index of an array is). 
