@@ -1,7 +1,7 @@
 function theBeatlesPlay(arrayOfMusicians, arrayOfInstruments){
   var array = [];
-  if(var i = 0, i < arrayOfMusicians.length; i++){
-    array.push()
+  for(var i = 0, i < arrayOfMusicians.length; i++){
+    var musicianAndInstrument = arrayOfMusicians[i] + arrayOfInstruments[i];
   }
 }
 // * Create a variable with an empty array.
